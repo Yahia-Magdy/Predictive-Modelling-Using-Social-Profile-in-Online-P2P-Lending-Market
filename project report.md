@@ -133,8 +133,7 @@ We prepared the needed files to deploy our app sucessfully:<br>
 The files of this part is in Flask App folder.
 > Decision_trees is the model used for prediction.<br>
 > scaling_tree is the min_max_scaler used.<br>
-You can acess to the app by using the following link :<br>
-https://loan-completion-pred-flask.herokuapp.com/
+
 
 ## Django :
 We created our app by using Django, then deployed it to heroku. <br>
